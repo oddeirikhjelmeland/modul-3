@@ -1,0 +1,8 @@
+G:\school\modul 3\passordGenerator\passordGenerator\bin\Release\passordGenerator.exe.config
+G:\school\modul 3\passordGenerator\passordGenerator\bin\Release\passordGenerator.exe
+G:\school\modul 3\passordGenerator\passordGenerator\bin\Release\passordGenerator.pdb
+G:\school\modul 3\passordGenerator\passordGenerator\obj\Release\passordGenerator.csproj.AssemblyReference.cache
+G:\school\modul 3\passordGenerator\passordGenerator\obj\Release\passordGenerator.csproj.SuggestedBindingRedirects.cache
+G:\school\modul 3\passordGenerator\passordGenerator\obj\Release\passordGenerator.csproj.CoreCompileInputs.cache
+G:\school\modul 3\passordGenerator\passordGenerator\obj\Release\passordGenerator.exe
+G:\school\modul 3\passordGenerator\passordGenerator\obj\Release\passordGenerator.pdb

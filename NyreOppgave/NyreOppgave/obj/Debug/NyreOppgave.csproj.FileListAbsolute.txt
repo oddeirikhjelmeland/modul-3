@@ -1,0 +1,8 @@
+G:\school\modul 3\NyreOppgave\NyreOppgave\obj\Debug\NyreOppgave.csproj.AssemblyReference.cache
+G:\school\modul 3\NyreOppgave\NyreOppgave\obj\Debug\NyreOppgave.csproj.SuggestedBindingRedirects.cache
+G:\school\modul 3\NyreOppgave\NyreOppgave\obj\Debug\NyreOppgave.csproj.CoreCompileInputs.cache
+G:\school\modul 3\NyreOppgave\NyreOppgave\bin\Debug\NyreOppgave.exe.config
+G:\school\modul 3\NyreOppgave\NyreOppgave\bin\Debug\NyreOppgave.exe
+G:\school\modul 3\NyreOppgave\NyreOppgave\bin\Debug\NyreOppgave.pdb
+G:\school\modul 3\NyreOppgave\NyreOppgave\obj\Debug\NyreOppgave.exe
+G:\school\modul 3\NyreOppgave\NyreOppgave\obj\Debug\NyreOppgave.pdb

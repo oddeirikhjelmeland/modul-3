@@ -1,0 +1,8 @@
+G:\school\modul 3\oppgåve1\oppgåve1\bin\Debug\oppgåve1.exe.config
+G:\school\modul 3\oppgåve1\oppgåve1\bin\Debug\oppgåve1.exe
+G:\school\modul 3\oppgåve1\oppgåve1\bin\Debug\oppgåve1.pdb
+G:\school\modul 3\oppgåve1\oppgåve1\obj\Debug\oppgåve1.csproj.AssemblyReference.cache
+G:\school\modul 3\oppgåve1\oppgåve1\obj\Debug\oppgåve1.csproj.SuggestedBindingRedirects.cache
+G:\school\modul 3\oppgåve1\oppgåve1\obj\Debug\oppgåve1.csproj.CoreCompileInputs.cache
+G:\school\modul 3\oppgåve1\oppgåve1\obj\Debug\oppgåve1.exe
+G:\school\modul 3\oppgåve1\oppgåve1\obj\Debug\oppgåve1.pdb

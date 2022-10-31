@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendFace", "FriendFace\FriendFace.csproj", "{D0C6B3F7-6DD8-4A0E-BDB5-4A01FC94FDA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C6B3F7-6DD8-4A0E-BDB5-4A01FC94FDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C6B3F7-6DD8-4A0E-BDB5-4A01FC94FDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C6B3F7-6DD8-4A0E-BDB5-4A01FC94FDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C6B3F7-6DD8-4A0E-BDB5-4A01FC94FDA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B436B9-D8FC-49AC-AA13-711B965425B2}
+	EndGlobalSection
+EndGlobal
