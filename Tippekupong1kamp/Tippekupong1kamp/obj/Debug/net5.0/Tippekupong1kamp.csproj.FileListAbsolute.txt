@@ -1,0 +1,16 @@
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\Tippekupong1kamp.exe
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\Tippekupong1kamp.deps.json
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\Tippekupong1kamp.runtimeconfig.json
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\Tippekupong1kamp.runtimeconfig.dev.json
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\Tippekupong1kamp.dll
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\Tippekupong1kamp.pdb
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.csproj.AssemblyReference.cache
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.AssemblyInfoInputs.cache
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.AssemblyInfo.cs
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.csproj.CoreCompileInputs.cache
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.dll
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\refint\Tippekupong1kamp.dll
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.pdb
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.genruntimeconfig.cache
+G:\school\modul 3\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\ref\Tippekupong1kamp.dll

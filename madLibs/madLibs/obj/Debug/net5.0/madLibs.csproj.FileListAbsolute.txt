@@ -1,0 +1,16 @@
+G:\school\modul 3\madLibs\madLibs\bin\Debug\net5.0\madLibs.exe
+G:\school\modul 3\madLibs\madLibs\bin\Debug\net5.0\madLibs.deps.json
+G:\school\modul 3\madLibs\madLibs\bin\Debug\net5.0\madLibs.runtimeconfig.json
+G:\school\modul 3\madLibs\madLibs\bin\Debug\net5.0\madLibs.runtimeconfig.dev.json
+G:\school\modul 3\madLibs\madLibs\bin\Debug\net5.0\madLibs.dll
+G:\school\modul 3\madLibs\madLibs\bin\Debug\net5.0\madLibs.pdb
+G:\school\modul 3\madLibs\madLibs\obj\Debug\net5.0\madLibs.csproj.AssemblyReference.cache
+G:\school\modul 3\madLibs\madLibs\obj\Debug\net5.0\madLibs.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\madLibs\madLibs\obj\Debug\net5.0\madLibs.AssemblyInfoInputs.cache
+G:\school\modul 3\madLibs\madLibs\obj\Debug\net5.0\madLibs.AssemblyInfo.cs
+G:\school\modul 3\madLibs\madLibs\obj\Debug\net5.0\madLibs.csproj.CoreCompileInputs.cache
+G:\school\modul 3\madLibs\madLibs\obj\Debug\net5.0\madLibs.dll
+G:\school\modul 3\madLibs\madLibs\obj\Debug\net5.0\refint\madLibs.dll
+G:\school\modul 3\madLibs\madLibs\obj\Debug\net5.0\madLibs.pdb
+G:\school\modul 3\madLibs\madLibs\obj\Debug\net5.0\madLibs.genruntimeconfig.cache
+G:\school\modul 3\madLibs\madLibs\obj\Debug\net5.0\ref\madLibs.dll

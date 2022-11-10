@@ -1,0 +1,16 @@
+G:\school\modul 3\TrePåRad\TrePåRad\bin\Debug\net5.0\TrePåRad.exe
+G:\school\modul 3\TrePåRad\TrePåRad\bin\Debug\net5.0\TrePåRad.deps.json
+G:\school\modul 3\TrePåRad\TrePåRad\bin\Debug\net5.0\TrePåRad.runtimeconfig.json
+G:\school\modul 3\TrePåRad\TrePåRad\bin\Debug\net5.0\TrePåRad.runtimeconfig.dev.json
+G:\school\modul 3\TrePåRad\TrePåRad\bin\Debug\net5.0\TrePåRad.dll
+G:\school\modul 3\TrePåRad\TrePåRad\bin\Debug\net5.0\TrePåRad.pdb
+G:\school\modul 3\TrePåRad\TrePåRad\obj\Debug\net5.0\TrePåRad.csproj.AssemblyReference.cache
+G:\school\modul 3\TrePåRad\TrePåRad\obj\Debug\net5.0\TrePåRad.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\TrePåRad\TrePåRad\obj\Debug\net5.0\TrePåRad.AssemblyInfoInputs.cache
+G:\school\modul 3\TrePåRad\TrePåRad\obj\Debug\net5.0\TrePåRad.AssemblyInfo.cs
+G:\school\modul 3\TrePåRad\TrePåRad\obj\Debug\net5.0\TrePåRad.csproj.CoreCompileInputs.cache
+G:\school\modul 3\TrePåRad\TrePåRad\obj\Debug\net5.0\TrePåRad.dll
+G:\school\modul 3\TrePåRad\TrePåRad\obj\Debug\net5.0\refint\TrePåRad.dll
+G:\school\modul 3\TrePåRad\TrePåRad\obj\Debug\net5.0\TrePåRad.pdb
+G:\school\modul 3\TrePåRad\TrePåRad\obj\Debug\net5.0\TrePåRad.genruntimeconfig.cache
+G:\school\modul 3\TrePåRad\TrePåRad\obj\Debug\net5.0\ref\TrePåRad.dll

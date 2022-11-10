@@ -1,0 +1,16 @@
+G:\school\modul 3\Players\Players\bin\Debug\net5.0\Players.exe
+G:\school\modul 3\Players\Players\bin\Debug\net5.0\Players.deps.json
+G:\school\modul 3\Players\Players\bin\Debug\net5.0\Players.runtimeconfig.json
+G:\school\modul 3\Players\Players\bin\Debug\net5.0\Players.runtimeconfig.dev.json
+G:\school\modul 3\Players\Players\bin\Debug\net5.0\Players.dll
+G:\school\modul 3\Players\Players\bin\Debug\net5.0\Players.pdb
+G:\school\modul 3\Players\Players\obj\Debug\net5.0\Players.csproj.AssemblyReference.cache
+G:\school\modul 3\Players\Players\obj\Debug\net5.0\Players.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\Players\Players\obj\Debug\net5.0\Players.AssemblyInfoInputs.cache
+G:\school\modul 3\Players\Players\obj\Debug\net5.0\Players.AssemblyInfo.cs
+G:\school\modul 3\Players\Players\obj\Debug\net5.0\Players.csproj.CoreCompileInputs.cache
+G:\school\modul 3\Players\Players\obj\Debug\net5.0\Players.dll
+G:\school\modul 3\Players\Players\obj\Debug\net5.0\refint\Players.dll
+G:\school\modul 3\Players\Players\obj\Debug\net5.0\Players.pdb
+G:\school\modul 3\Players\Players\obj\Debug\net5.0\Players.genruntimeconfig.cache
+G:\school\modul 3\Players\Players\obj\Debug\net5.0\ref\Players.dll

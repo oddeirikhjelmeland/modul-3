@@ -1,0 +1,16 @@
+G:\school\modul 3\MoneyMaker\MoneyMaker\bin\Debug\net5.0\MoneyMaker.exe
+G:\school\modul 3\MoneyMaker\MoneyMaker\bin\Debug\net5.0\MoneyMaker.deps.json
+G:\school\modul 3\MoneyMaker\MoneyMaker\bin\Debug\net5.0\MoneyMaker.runtimeconfig.json
+G:\school\modul 3\MoneyMaker\MoneyMaker\bin\Debug\net5.0\MoneyMaker.runtimeconfig.dev.json
+G:\school\modul 3\MoneyMaker\MoneyMaker\bin\Debug\net5.0\MoneyMaker.dll
+G:\school\modul 3\MoneyMaker\MoneyMaker\bin\Debug\net5.0\MoneyMaker.pdb
+G:\school\modul 3\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.csproj.AssemblyReference.cache
+G:\school\modul 3\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.AssemblyInfoInputs.cache
+G:\school\modul 3\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.AssemblyInfo.cs
+G:\school\modul 3\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.csproj.CoreCompileInputs.cache
+G:\school\modul 3\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.dll
+G:\school\modul 3\MoneyMaker\MoneyMaker\obj\Debug\net5.0\refint\MoneyMaker.dll
+G:\school\modul 3\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.pdb
+G:\school\modul 3\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.genruntimeconfig.cache
+G:\school\modul 3\MoneyMaker\MoneyMaker\obj\Debug\net5.0\ref\MoneyMaker.dll
