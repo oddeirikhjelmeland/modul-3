@@ -6,3 +6,11 @@ G:\school\modul 3\bossfight\bossfight\obj\Debug\bossfight.csproj.SuggestedBindin
 G:\school\modul 3\bossfight\bossfight\obj\Debug\bossfight.csproj.CoreCompileInputs.cache
 G:\school\modul 3\bossfight\bossfight\obj\Debug\bossfight.exe
 G:\school\modul 3\bossfight\bossfight\obj\Debug\bossfight.pdb
+G:\school\modul 3\modul-3\bossfight\bossfight\bin\Debug\bossfight.exe.config
+G:\school\modul 3\modul-3\bossfight\bossfight\bin\Debug\bossfight.exe
+G:\school\modul 3\modul-3\bossfight\bossfight\bin\Debug\bossfight.pdb
+G:\school\modul 3\modul-3\bossfight\bossfight\obj\Debug\bossfight.csproj.AssemblyReference.cache
+G:\school\modul 3\modul-3\bossfight\bossfight\obj\Debug\bossfight.csproj.SuggestedBindingRedirects.cache
+G:\school\modul 3\modul-3\bossfight\bossfight\obj\Debug\bossfight.csproj.CoreCompileInputs.cache
+G:\school\modul 3\modul-3\bossfight\bossfight\obj\Debug\bossfight.exe
+G:\school\modul 3\modul-3\bossfight\bossfight\obj\Debug\bossfight.pdb
