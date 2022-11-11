@@ -1,0 +1,15 @@
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\bin\Debug\net7.0\BossFight3.exe
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\bin\Debug\net7.0\BossFight3.deps.json
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\bin\Debug\net7.0\BossFight3.runtimeconfig.json
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\bin\Debug\net7.0\BossFight3.dll
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\bin\Debug\net7.0\BossFight3.pdb
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\obj\Debug\net7.0\BossFight3.csproj.AssemblyReference.cache
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\obj\Debug\net7.0\BossFight3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\obj\Debug\net7.0\BossFight3.AssemblyInfoInputs.cache
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\obj\Debug\net7.0\BossFight3.AssemblyInfo.cs
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\obj\Debug\net7.0\BossFight3.csproj.CoreCompileInputs.cache
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\obj\Debug\net7.0\BossFight3.dll
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\obj\Debug\net7.0\refint\BossFight3.dll
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\obj\Debug\net7.0\BossFight3.pdb
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\obj\Debug\net7.0\BossFight3.genruntimeconfig.cache
+C:\Users\Slopsey\source\repos\BossFight3\BossFight3\obj\Debug\net7.0\ref\BossFight3.dll

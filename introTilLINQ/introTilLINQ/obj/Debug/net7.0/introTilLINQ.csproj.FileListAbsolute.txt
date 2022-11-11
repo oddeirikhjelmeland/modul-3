@@ -1,0 +1,15 @@
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\bin\Debug\net7.0\introTilLINQ.exe
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\bin\Debug\net7.0\introTilLINQ.deps.json
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\bin\Debug\net7.0\introTilLINQ.runtimeconfig.json
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\bin\Debug\net7.0\introTilLINQ.dll
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\bin\Debug\net7.0\introTilLINQ.pdb
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\obj\Debug\net7.0\introTilLINQ.csproj.AssemblyReference.cache
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\obj\Debug\net7.0\introTilLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\obj\Debug\net7.0\introTilLINQ.AssemblyInfoInputs.cache
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\obj\Debug\net7.0\introTilLINQ.AssemblyInfo.cs
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\obj\Debug\net7.0\introTilLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\obj\Debug\net7.0\introTilLINQ.dll
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\obj\Debug\net7.0\refint\introTilLINQ.dll
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\obj\Debug\net7.0\introTilLINQ.pdb
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\obj\Debug\net7.0\introTilLINQ.genruntimeconfig.cache
+C:\Users\Slopsey\source\repos\introTilLINQ\introTilLINQ\obj\Debug\net7.0\ref\introTilLINQ.dll

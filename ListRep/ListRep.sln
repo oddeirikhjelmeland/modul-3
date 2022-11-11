@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListRep", "ListRep\ListRep.csproj", "{78D54E2B-3352-42D7-B153-5817F5C14ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D54E2B-3352-42D7-B153-5817F5C14ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D54E2B-3352-42D7-B153-5817F5C14ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D54E2B-3352-42D7-B153-5817F5C14ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D54E2B-3352-42D7-B153-5817F5C14ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B2F5FFF-E299-4974-A836-0A93344513A0}
+	EndGlobalSection
+EndGlobal
