@@ -1,0 +1,9 @@
+﻿bomb is active only excists in terrorist.cs, not in CT.cs
+
+possible to add KillTerrorist og KillCT in the same class to reduce code amount?
+
+flytte om på kode.
+
+gjere om til lister seinare.
+
+print alive
