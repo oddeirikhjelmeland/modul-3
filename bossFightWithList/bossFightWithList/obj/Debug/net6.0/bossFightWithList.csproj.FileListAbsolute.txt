@@ -1,0 +1,15 @@
+G:\school\modul 3\bossFightWithList\bossFightWithList\bin\Debug\net6.0\bossFightWithList.exe
+G:\school\modul 3\bossFightWithList\bossFightWithList\bin\Debug\net6.0\bossFightWithList.deps.json
+G:\school\modul 3\bossFightWithList\bossFightWithList\bin\Debug\net6.0\bossFightWithList.runtimeconfig.json
+G:\school\modul 3\bossFightWithList\bossFightWithList\bin\Debug\net6.0\bossFightWithList.dll
+G:\school\modul 3\bossFightWithList\bossFightWithList\bin\Debug\net6.0\bossFightWithList.pdb
+G:\school\modul 3\bossFightWithList\bossFightWithList\obj\Debug\net6.0\bossFightWithList.csproj.AssemblyReference.cache
+G:\school\modul 3\bossFightWithList\bossFightWithList\obj\Debug\net6.0\bossFightWithList.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\bossFightWithList\bossFightWithList\obj\Debug\net6.0\bossFightWithList.AssemblyInfoInputs.cache
+G:\school\modul 3\bossFightWithList\bossFightWithList\obj\Debug\net6.0\bossFightWithList.AssemblyInfo.cs
+G:\school\modul 3\bossFightWithList\bossFightWithList\obj\Debug\net6.0\bossFightWithList.csproj.CoreCompileInputs.cache
+G:\school\modul 3\bossFightWithList\bossFightWithList\obj\Debug\net6.0\bossFightWithList.dll
+G:\school\modul 3\bossFightWithList\bossFightWithList\obj\Debug\net6.0\refint\bossFightWithList.dll
+G:\school\modul 3\bossFightWithList\bossFightWithList\obj\Debug\net6.0\bossFightWithList.pdb
+G:\school\modul 3\bossFightWithList\bossFightWithList\obj\Debug\net6.0\bossFightWithList.genruntimeconfig.cache
+G:\school\modul 3\bossFightWithList\bossFightWithList\obj\Debug\net6.0\ref\bossFightWithList.dll
