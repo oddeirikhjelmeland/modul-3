@@ -1,0 +1,15 @@
+G:\school\modul 3\pugging\pugging\bin\Debug\net6.0\pugging.exe
+G:\school\modul 3\pugging\pugging\bin\Debug\net6.0\pugging.deps.json
+G:\school\modul 3\pugging\pugging\bin\Debug\net6.0\pugging.runtimeconfig.json
+G:\school\modul 3\pugging\pugging\bin\Debug\net6.0\pugging.dll
+G:\school\modul 3\pugging\pugging\bin\Debug\net6.0\pugging.pdb
+G:\school\modul 3\pugging\pugging\obj\Debug\net6.0\pugging.csproj.AssemblyReference.cache
+G:\school\modul 3\pugging\pugging\obj\Debug\net6.0\pugging.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\pugging\pugging\obj\Debug\net6.0\pugging.AssemblyInfoInputs.cache
+G:\school\modul 3\pugging\pugging\obj\Debug\net6.0\pugging.AssemblyInfo.cs
+G:\school\modul 3\pugging\pugging\obj\Debug\net6.0\pugging.csproj.CoreCompileInputs.cache
+G:\school\modul 3\pugging\pugging\obj\Debug\net6.0\pugging.dll
+G:\school\modul 3\pugging\pugging\obj\Debug\net6.0\refint\pugging.dll
+G:\school\modul 3\pugging\pugging\obj\Debug\net6.0\pugging.pdb
+G:\school\modul 3\pugging\pugging\obj\Debug\net6.0\pugging.genruntimeconfig.cache
+G:\school\modul 3\pugging\pugging\obj\Debug\net6.0\ref\pugging.dll

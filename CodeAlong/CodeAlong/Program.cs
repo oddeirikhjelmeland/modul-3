@@ -16,17 +16,16 @@
             //{
             //    Console.WriteLine("Koden var feil");
             //}
-
             // pinkode som e riktig
             // readline som tar user input
             // method som sjekke om dei er like
-            
+
+            Sykkel thiscanbecalledanyhting = new("test", false, "fdwa");
             Sykkel sykkel = new("skivebrems", true, "aluminium");
 
-            sykkel.Kodelås.ÅpneKodeLås();
+            thiscanbecalledanyhting.Kodelås.ÅpneKodeLås();
             
-          
-
+      
         }
     }
 }
@@ -36,6 +35,8 @@
 // 1234
 
 // gratulerer
+
+
 
 //   sykkel:
 //   {

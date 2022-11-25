@@ -1,0 +1,15 @@
+G:\school\modul 3\HotelWithList\HotelWithList\obj\Debug\net6.0\HotelWithList.csproj.AssemblyReference.cache
+G:\school\modul 3\HotelWithList\HotelWithList\obj\Debug\net6.0\HotelWithList.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\HotelWithList\HotelWithList\obj\Debug\net6.0\HotelWithList.AssemblyInfoInputs.cache
+G:\school\modul 3\HotelWithList\HotelWithList\obj\Debug\net6.0\HotelWithList.AssemblyInfo.cs
+G:\school\modul 3\HotelWithList\HotelWithList\obj\Debug\net6.0\HotelWithList.csproj.CoreCompileInputs.cache
+G:\school\modul 3\HotelWithList\HotelWithList\bin\Debug\net6.0\HotelWithList.exe
+G:\school\modul 3\HotelWithList\HotelWithList\bin\Debug\net6.0\HotelWithList.deps.json
+G:\school\modul 3\HotelWithList\HotelWithList\bin\Debug\net6.0\HotelWithList.runtimeconfig.json
+G:\school\modul 3\HotelWithList\HotelWithList\bin\Debug\net6.0\HotelWithList.dll
+G:\school\modul 3\HotelWithList\HotelWithList\bin\Debug\net6.0\HotelWithList.pdb
+G:\school\modul 3\HotelWithList\HotelWithList\obj\Debug\net6.0\HotelWithList.dll
+G:\school\modul 3\HotelWithList\HotelWithList\obj\Debug\net6.0\refint\HotelWithList.dll
+G:\school\modul 3\HotelWithList\HotelWithList\obj\Debug\net6.0\HotelWithList.pdb
+G:\school\modul 3\HotelWithList\HotelWithList\obj\Debug\net6.0\HotelWithList.genruntimeconfig.cache
+G:\school\modul 3\HotelWithList\HotelWithList\obj\Debug\net6.0\ref\HotelWithList.dll

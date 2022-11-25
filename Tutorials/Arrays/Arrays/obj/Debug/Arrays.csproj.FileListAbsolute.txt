@@ -1,0 +1,8 @@
+G:\school\Tutorials\Arrays\Arrays\bin\Debug\Arrays.exe.config
+G:\school\Tutorials\Arrays\Arrays\bin\Debug\Arrays.exe
+G:\school\Tutorials\Arrays\Arrays\bin\Debug\Arrays.pdb
+G:\school\Tutorials\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+G:\school\Tutorials\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+G:\school\Tutorials\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+G:\school\Tutorials\Arrays\Arrays\obj\Debug\Arrays.exe
+G:\school\Tutorials\Arrays\Arrays\obj\Debug\Arrays.pdb

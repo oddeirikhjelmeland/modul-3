@@ -1,0 +1,8 @@
+G:\school\Tutorials\Mad-Libs-Game\Mad-Libs-Game\bin\Debug\Mad-Libs-Game.exe.config
+G:\school\Tutorials\Mad-Libs-Game\Mad-Libs-Game\bin\Debug\Mad-Libs-Game.exe
+G:\school\Tutorials\Mad-Libs-Game\Mad-Libs-Game\bin\Debug\Mad-Libs-Game.pdb
+G:\school\Tutorials\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\Mad-Libs-Game.csproj.AssemblyReference.cache
+G:\school\Tutorials\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\Mad-Libs-Game.csproj.SuggestedBindingRedirects.cache
+G:\school\Tutorials\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\Mad-Libs-Game.csproj.CoreCompileInputs.cache
+G:\school\Tutorials\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\Mad-Libs-Game.exe
+G:\school\Tutorials\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\Mad-Libs-Game.pdb

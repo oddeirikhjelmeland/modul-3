@@ -1,0 +1,8 @@
+G:\school\Tutorials\ifstatements2\ifstatements2\bin\Debug\ifstatements2.exe.config
+G:\school\Tutorials\ifstatements2\ifstatements2\bin\Debug\ifstatements2.exe
+G:\school\Tutorials\ifstatements2\ifstatements2\bin\Debug\ifstatements2.pdb
+G:\school\Tutorials\ifstatements2\ifstatements2\obj\Debug\ifstatements2.csproj.AssemblyReference.cache
+G:\school\Tutorials\ifstatements2\ifstatements2\obj\Debug\ifstatements2.csproj.SuggestedBindingRedirects.cache
+G:\school\Tutorials\ifstatements2\ifstatements2\obj\Debug\ifstatements2.csproj.CoreCompileInputs.cache
+G:\school\Tutorials\ifstatements2\ifstatements2\obj\Debug\ifstatements2.exe
+G:\school\Tutorials\ifstatements2\ifstatements2\obj\Debug\ifstatements2.pdb

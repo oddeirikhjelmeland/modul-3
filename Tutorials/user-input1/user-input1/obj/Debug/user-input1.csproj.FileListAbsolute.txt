@@ -1,0 +1,8 @@
+G:\school\user-input1\user-input1\bin\Debug\user-input1.exe.config
+G:\school\user-input1\user-input1\bin\Debug\user-input1.exe
+G:\school\user-input1\user-input1\bin\Debug\user-input1.pdb
+G:\school\user-input1\user-input1\obj\Debug\user-input1.csproj.AssemblyReference.cache
+G:\school\user-input1\user-input1\obj\Debug\user-input1.csproj.SuggestedBindingRedirects.cache
+G:\school\user-input1\user-input1\obj\Debug\user-input1.csproj.CoreCompileInputs.cache
+G:\school\user-input1\user-input1\obj\Debug\user-input1.exe
+G:\school\user-input1\user-input1\obj\Debug\user-input1.pdb

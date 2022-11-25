@@ -1,0 +1,15 @@
+G:\school\modul 3\listpugging\listpugging\bin\Debug\net6.0\listpugging.exe
+G:\school\modul 3\listpugging\listpugging\bin\Debug\net6.0\listpugging.deps.json
+G:\school\modul 3\listpugging\listpugging\bin\Debug\net6.0\listpugging.runtimeconfig.json
+G:\school\modul 3\listpugging\listpugging\bin\Debug\net6.0\listpugging.dll
+G:\school\modul 3\listpugging\listpugging\bin\Debug\net6.0\listpugging.pdb
+G:\school\modul 3\listpugging\listpugging\obj\Debug\net6.0\listpugging.csproj.AssemblyReference.cache
+G:\school\modul 3\listpugging\listpugging\obj\Debug\net6.0\listpugging.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\listpugging\listpugging\obj\Debug\net6.0\listpugging.AssemblyInfoInputs.cache
+G:\school\modul 3\listpugging\listpugging\obj\Debug\net6.0\listpugging.AssemblyInfo.cs
+G:\school\modul 3\listpugging\listpugging\obj\Debug\net6.0\listpugging.csproj.CoreCompileInputs.cache
+G:\school\modul 3\listpugging\listpugging\obj\Debug\net6.0\listpugging.dll
+G:\school\modul 3\listpugging\listpugging\obj\Debug\net6.0\refint\listpugging.dll
+G:\school\modul 3\listpugging\listpugging\obj\Debug\net6.0\listpugging.pdb
+G:\school\modul 3\listpugging\listpugging\obj\Debug\net6.0\listpugging.genruntimeconfig.cache
+G:\school\modul 3\listpugging\listpugging\obj\Debug\net6.0\ref\listpugging.dll

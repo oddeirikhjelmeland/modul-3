@@ -1,0 +1,8 @@
+G:\school\Tutorials\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+G:\school\Tutorials\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe
+G:\school\Tutorials\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.pdb
+G:\school\Tutorials\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.AssemblyReference.cache
+G:\school\Tutorials\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.SuggestedBindingRedirects.cache
+G:\school\Tutorials\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.CoreCompileInputs.cache
+G:\school\Tutorials\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe
+G:\school\Tutorials\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.pdb

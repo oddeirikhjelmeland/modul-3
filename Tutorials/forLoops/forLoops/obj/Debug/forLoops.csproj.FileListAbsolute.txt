@@ -1,0 +1,8 @@
+G:\school\Tutorials\forLoops\forLoops\bin\Debug\forLoops.exe.config
+G:\school\Tutorials\forLoops\forLoops\bin\Debug\forLoops.exe
+G:\school\Tutorials\forLoops\forLoops\bin\Debug\forLoops.pdb
+G:\school\Tutorials\forLoops\forLoops\obj\Debug\forLoops.csproj.AssemblyReference.cache
+G:\school\Tutorials\forLoops\forLoops\obj\Debug\forLoops.csproj.SuggestedBindingRedirects.cache
+G:\school\Tutorials\forLoops\forLoops\obj\Debug\forLoops.csproj.CoreCompileInputs.cache
+G:\school\Tutorials\forLoops\forLoops\obj\Debug\forLoops.exe
+G:\school\Tutorials\forLoops\forLoops\obj\Debug\forLoops.pdb

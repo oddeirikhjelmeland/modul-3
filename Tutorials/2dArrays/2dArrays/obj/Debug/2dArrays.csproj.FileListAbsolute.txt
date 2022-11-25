@@ -1,0 +1,8 @@
+G:\school\Tutorials\2dArrays\2dArrays\bin\Debug\2dArrays.exe.config
+G:\school\Tutorials\2dArrays\2dArrays\bin\Debug\2dArrays.exe
+G:\school\Tutorials\2dArrays\2dArrays\bin\Debug\2dArrays.pdb
+G:\school\Tutorials\2dArrays\2dArrays\obj\Debug\2dArrays.csproj.AssemblyReference.cache
+G:\school\Tutorials\2dArrays\2dArrays\obj\Debug\2dArrays.csproj.SuggestedBindingRedirects.cache
+G:\school\Tutorials\2dArrays\2dArrays\obj\Debug\2dArrays.csproj.CoreCompileInputs.cache
+G:\school\Tutorials\2dArrays\2dArrays\obj\Debug\2dArrays.exe
+G:\school\Tutorials\2dArrays\2dArrays\obj\Debug\2dArrays.pdb

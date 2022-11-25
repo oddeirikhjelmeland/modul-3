@@ -24,6 +24,7 @@ namespace CodeAlong
             else
             {
                 Console.WriteLine("Koden var feil");
+                
             }
         }
     }
