@@ -1,0 +1,15 @@
+G:\school\modul 3\CodeAlong2\CodeAlong2\bin\Debug\net6.0\CodeAlong2.exe
+G:\school\modul 3\CodeAlong2\CodeAlong2\bin\Debug\net6.0\CodeAlong2.deps.json
+G:\school\modul 3\CodeAlong2\CodeAlong2\bin\Debug\net6.0\CodeAlong2.runtimeconfig.json
+G:\school\modul 3\CodeAlong2\CodeAlong2\bin\Debug\net6.0\CodeAlong2.dll
+G:\school\modul 3\CodeAlong2\CodeAlong2\bin\Debug\net6.0\CodeAlong2.pdb
+G:\school\modul 3\CodeAlong2\CodeAlong2\obj\Debug\net6.0\CodeAlong2.csproj.AssemblyReference.cache
+G:\school\modul 3\CodeAlong2\CodeAlong2\obj\Debug\net6.0\CodeAlong2.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\CodeAlong2\CodeAlong2\obj\Debug\net6.0\CodeAlong2.AssemblyInfoInputs.cache
+G:\school\modul 3\CodeAlong2\CodeAlong2\obj\Debug\net6.0\CodeAlong2.AssemblyInfo.cs
+G:\school\modul 3\CodeAlong2\CodeAlong2\obj\Debug\net6.0\CodeAlong2.csproj.CoreCompileInputs.cache
+G:\school\modul 3\CodeAlong2\CodeAlong2\obj\Debug\net6.0\CodeAlong2.dll
+G:\school\modul 3\CodeAlong2\CodeAlong2\obj\Debug\net6.0\refint\CodeAlong2.dll
+G:\school\modul 3\CodeAlong2\CodeAlong2\obj\Debug\net6.0\CodeAlong2.pdb
+G:\school\modul 3\CodeAlong2\CodeAlong2\obj\Debug\net6.0\CodeAlong2.genruntimeconfig.cache
+G:\school\modul 3\CodeAlong2\CodeAlong2\obj\Debug\net6.0\ref\CodeAlong2.dll

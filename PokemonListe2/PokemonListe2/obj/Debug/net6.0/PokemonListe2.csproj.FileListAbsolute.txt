@@ -1,0 +1,15 @@
+G:\school\modul 3\PokemonListe2\PokemonListe2\bin\Debug\net6.0\PokemonListe2.exe
+G:\school\modul 3\PokemonListe2\PokemonListe2\bin\Debug\net6.0\PokemonListe2.deps.json
+G:\school\modul 3\PokemonListe2\PokemonListe2\bin\Debug\net6.0\PokemonListe2.runtimeconfig.json
+G:\school\modul 3\PokemonListe2\PokemonListe2\bin\Debug\net6.0\PokemonListe2.dll
+G:\school\modul 3\PokemonListe2\PokemonListe2\bin\Debug\net6.0\PokemonListe2.pdb
+G:\school\modul 3\PokemonListe2\PokemonListe2\obj\Debug\net6.0\PokemonListe2.csproj.AssemblyReference.cache
+G:\school\modul 3\PokemonListe2\PokemonListe2\obj\Debug\net6.0\PokemonListe2.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\PokemonListe2\PokemonListe2\obj\Debug\net6.0\PokemonListe2.AssemblyInfoInputs.cache
+G:\school\modul 3\PokemonListe2\PokemonListe2\obj\Debug\net6.0\PokemonListe2.AssemblyInfo.cs
+G:\school\modul 3\PokemonListe2\PokemonListe2\obj\Debug\net6.0\PokemonListe2.csproj.CoreCompileInputs.cache
+G:\school\modul 3\PokemonListe2\PokemonListe2\obj\Debug\net6.0\PokemonListe2.dll
+G:\school\modul 3\PokemonListe2\PokemonListe2\obj\Debug\net6.0\refint\PokemonListe2.dll
+G:\school\modul 3\PokemonListe2\PokemonListe2\obj\Debug\net6.0\PokemonListe2.pdb
+G:\school\modul 3\PokemonListe2\PokemonListe2\obj\Debug\net6.0\PokemonListe2.genruntimeconfig.cache
+G:\school\modul 3\PokemonListe2\PokemonListe2\obj\Debug\net6.0\ref\PokemonListe2.dll

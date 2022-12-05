@@ -1,0 +1,15 @@
+G:\school\modul 3\Skule\Skule\bin\Debug\net6.0\Skule.exe
+G:\school\modul 3\Skule\Skule\bin\Debug\net6.0\Skule.deps.json
+G:\school\modul 3\Skule\Skule\bin\Debug\net6.0\Skule.runtimeconfig.json
+G:\school\modul 3\Skule\Skule\bin\Debug\net6.0\Skule.dll
+G:\school\modul 3\Skule\Skule\bin\Debug\net6.0\Skule.pdb
+G:\school\modul 3\Skule\Skule\obj\Debug\net6.0\Skule.csproj.AssemblyReference.cache
+G:\school\modul 3\Skule\Skule\obj\Debug\net6.0\Skule.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\Skule\Skule\obj\Debug\net6.0\Skule.AssemblyInfoInputs.cache
+G:\school\modul 3\Skule\Skule\obj\Debug\net6.0\Skule.AssemblyInfo.cs
+G:\school\modul 3\Skule\Skule\obj\Debug\net6.0\Skule.csproj.CoreCompileInputs.cache
+G:\school\modul 3\Skule\Skule\obj\Debug\net6.0\Skule.dll
+G:\school\modul 3\Skule\Skule\obj\Debug\net6.0\refint\Skule.dll
+G:\school\modul 3\Skule\Skule\obj\Debug\net6.0\Skule.pdb
+G:\school\modul 3\Skule\Skule\obj\Debug\net6.0\Skule.genruntimeconfig.cache
+G:\school\modul 3\Skule\Skule\obj\Debug\net6.0\ref\Skule.dll
