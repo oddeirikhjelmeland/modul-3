@@ -16,9 +16,6 @@ namespace CodeAlong2
             Name = name;
             Modul = modul;
         }
-
-
-
         // Studenter:[{ navn: "Erik", id: 345},{ navn: "Truls", id: 346},],
         //    Lærere:[{ navn: "Joakim", Modul: 3},{ navn: "Linn", Modul: 1},],
 

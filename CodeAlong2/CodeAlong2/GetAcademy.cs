@@ -14,7 +14,6 @@ namespace CodeAlong2
         public string FargePåBygg { get; private set; } = "Hot Pink";
         public Kodelås kodelås;
         
-
         public GetAcademy()
         {
             FargePåBygg = "Hot Pink";
@@ -24,11 +23,13 @@ namespace CodeAlong2
             AddStudents();
             AddTeacher();
         }
+
         private void AddStudents()
         {
             Studenter.Add(new Student("Erik", 345));
             Studenter.Add(new Student("Odd Eirik", 456));
         }
+
         private void AddTeacher()
         {
             var Joakim = new Lærer("Joakim", 3);
@@ -44,7 +45,6 @@ namespace CodeAlong2
                 student.StudentInfo();
             }
         }
-        
 
        // getAcademy.Kodelås.OpenLock();
 

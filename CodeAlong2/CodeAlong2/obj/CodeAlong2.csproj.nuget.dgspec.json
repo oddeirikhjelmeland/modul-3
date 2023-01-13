@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\school\\modul 3\\CodeAlong2\\CodeAlong2\\CodeAlong2.csproj": {}
+    "G:\\school\\modul 3\\modul-3\\CodeAlong2\\CodeAlong2\\CodeAlong2.csproj": {}
   },
   "projects": {
-    "G:\\school\\modul 3\\CodeAlong2\\CodeAlong2\\CodeAlong2.csproj": {
+    "G:\\school\\modul 3\\modul-3\\CodeAlong2\\CodeAlong2\\CodeAlong2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\school\\modul 3\\CodeAlong2\\CodeAlong2\\CodeAlong2.csproj",
+        "projectUniqueName": "G:\\school\\modul 3\\modul-3\\CodeAlong2\\CodeAlong2\\CodeAlong2.csproj",
         "projectName": "CodeAlong2",
-        "projectPath": "G:\\school\\modul 3\\CodeAlong2\\CodeAlong2\\CodeAlong2.csproj",
+        "projectPath": "G:\\school\\modul 3\\modul-3\\CodeAlong2\\CodeAlong2\\CodeAlong2.csproj",
         "packagesPath": "C:\\Users\\Slopsey\\.nuget\\packages\\",
-        "outputPath": "G:\\school\\modul 3\\CodeAlong2\\CodeAlong2\\obj\\",
+        "outputPath": "G:\\school\\modul 3\\modul-3\\CodeAlong2\\CodeAlong2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

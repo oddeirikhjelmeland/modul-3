@@ -1,0 +1,15 @@
+G:\school\modul 3\Ballgame3\Ballgame3\obj\Debug\net6.0\Ballgame3.csproj.AssemblyReference.cache
+G:\school\modul 3\Ballgame3\Ballgame3\obj\Debug\net6.0\Ballgame3.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\Ballgame3\Ballgame3\obj\Debug\net6.0\Ballgame3.AssemblyInfoInputs.cache
+G:\school\modul 3\Ballgame3\Ballgame3\obj\Debug\net6.0\Ballgame3.AssemblyInfo.cs
+G:\school\modul 3\Ballgame3\Ballgame3\obj\Debug\net6.0\Ballgame3.csproj.CoreCompileInputs.cache
+G:\school\modul 3\Ballgame3\Ballgame3\bin\Debug\net6.0\Ballgame3.exe
+G:\school\modul 3\Ballgame3\Ballgame3\bin\Debug\net6.0\Ballgame3.deps.json
+G:\school\modul 3\Ballgame3\Ballgame3\bin\Debug\net6.0\Ballgame3.runtimeconfig.json
+G:\school\modul 3\Ballgame3\Ballgame3\bin\Debug\net6.0\Ballgame3.dll
+G:\school\modul 3\Ballgame3\Ballgame3\bin\Debug\net6.0\Ballgame3.pdb
+G:\school\modul 3\Ballgame3\Ballgame3\obj\Debug\net6.0\Ballgame3.dll
+G:\school\modul 3\Ballgame3\Ballgame3\obj\Debug\net6.0\refint\Ballgame3.dll
+G:\school\modul 3\Ballgame3\Ballgame3\obj\Debug\net6.0\Ballgame3.pdb
+G:\school\modul 3\Ballgame3\Ballgame3\obj\Debug\net6.0\Ballgame3.genruntimeconfig.cache
+G:\school\modul 3\Ballgame3\Ballgame3\obj\Debug\net6.0\ref\Ballgame3.dll

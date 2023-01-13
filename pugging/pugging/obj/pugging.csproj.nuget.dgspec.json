@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\school\\modul 3\\pugging\\pugging\\pugging.csproj": {}
+    "G:\\school\\modul 3\\modul-3\\pugging\\pugging\\pugging.csproj": {}
   },
   "projects": {
-    "G:\\school\\modul 3\\pugging\\pugging\\pugging.csproj": {
+    "G:\\school\\modul 3\\modul-3\\pugging\\pugging\\pugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\school\\modul 3\\pugging\\pugging\\pugging.csproj",
+        "projectUniqueName": "G:\\school\\modul 3\\modul-3\\pugging\\pugging\\pugging.csproj",
         "projectName": "pugging",
-        "projectPath": "G:\\school\\modul 3\\pugging\\pugging\\pugging.csproj",
+        "projectPath": "G:\\school\\modul 3\\modul-3\\pugging\\pugging\\pugging.csproj",
         "packagesPath": "C:\\Users\\Slopsey\\.nuget\\packages\\",
-        "outputPath": "G:\\school\\modul 3\\pugging\\pugging\\obj\\",
+        "outputPath": "G:\\school\\modul 3\\modul-3\\pugging\\pugging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
