@@ -14,6 +14,7 @@
 
             while (gameIsRunning)
             {
+                Console.WriteLine("____________________________");
                 Terrorist.PrintAlive(Terrorist);
                 CounterTerrorist.PrintAlive(CounterTerrorist);
                 Thread.Sleep(1000);

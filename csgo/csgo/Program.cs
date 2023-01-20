@@ -13,6 +13,7 @@
 
             while (gameIsRunning)
             {
+                Console.WriteLine("__________________________");
                 Terrorist.PrintAlive(Terrorist);
                 CounterTerrorist.PrintAlive(CounterTerrorist);
                 Thread.Sleep(1000);

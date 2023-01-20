@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\school\\modul 3\\csgo\\csgo\\csgo.csproj",
+      "projectUniqueName": "G:\\school\\modul 3\\modul-3\\csgo\\csgo\\csgo.csproj",
       "projectName": "csgo",
-      "projectPath": "G:\\school\\modul 3\\csgo\\csgo\\csgo.csproj",
+      "projectPath": "G:\\school\\modul 3\\modul-3\\csgo\\csgo\\csgo.csproj",
       "packagesPath": "C:\\Users\\Slopsey\\.nuget\\packages\\",
-      "outputPath": "G:\\school\\modul 3\\csgo\\csgo\\obj\\",
+      "outputPath": "G:\\school\\modul 3\\modul-3\\csgo\\csgo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

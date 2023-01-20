@@ -14,7 +14,7 @@ namespace csgo
         public int MembersAlive { get; set; }
         public int defuse = 0;
 
-        public CounterTerrorist(bool isDead, int membersAlive) // is a constructor
+        public CounterTerrorist(bool isDead, int membersAlive) 
         {
             IsDead = isDead;
             MembersAlive = membersAlive;
